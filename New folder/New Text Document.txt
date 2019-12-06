@@ -1,0 +1,13 @@
+document.querySelector(".myclassshow").addEventListener("click",function(){
+document.querySelector("#demo").setAttribute("class","shownow");	
+	
+	
+	
+});
+
+document.querySelector(".myclasshide").addEventListener("click",function(){
+document.querySelector("#demo").setAttribute("class","hidenow");	
+	
+	
+	
+});
